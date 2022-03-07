@@ -1,1 +1,1 @@
-# Praktikum
+# Praktikum JAVA Yandex.
